@@ -4,10 +4,10 @@
 
 Ensure you have the following software installed on your machine:
 
--Node
--Git
--Visual Studio code
--Playwright Test for VSCode plugin 
+- Node
+- Git
+- Visual Studio code
+- Playwright Test for VSCode plugin 
 
 
 ### Installation
@@ -39,9 +39,9 @@ npx playwright install
 
 
 ### Project Structure
-tests -> contains the playwright test
-pageObjects -> paga object class for each pages which contains the locstors and action
-playwright.config.ts -> contains the playwright test configuration
+- tests -> contains the playwright test
+- pageObjects -> paga object class for each pages which contains the locstors and action
+- playwright.config.ts -> contains the playwright test configuration
 
 
 ```
