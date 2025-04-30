@@ -4,10 +4,10 @@
 
 Ensure you have the following software installed on your machine:
 
-Node
-Git
-Visual Studio code
-Playwright Test for VSCode plugin 
+-Node
+-Git
+-Visual Studio code
+-Playwright Test for VSCode plugin 
 
 
 ### Installation
